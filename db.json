@@ -7,7 +7,7 @@
       "jawabanb" : "PPh Pasal 21/26",
       "jawabanc" : "PPN & PpnBm",
       "jawaband" : "PBB",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "PPh Pasal 4 ayat 2"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" : "Rp65.000.000,-",
       "jawabanc" : "Rp3.000.000,-",
       "jawaband" : "Rp15.000.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp75.000.000,-"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" : "Rp32.400.000,-",
       "jawabanc" : "Rp30.000.000,-",
       "jawaband" : "Rp24.000.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp32.400.000,-"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" : "Rp2.400.000,-",
       "jawabanc" : "Rp2.000.000,-",
       "jawaband" : "Rp12.000.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp2.400.000,-"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" : "Rp12.000.000,-",
       "jawabanc" : "Rp25.000.000,-",
       "jawaband" : "Rp24.000.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp25.000.000,-"
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" : "15 %",
       "jawabanc" : "20 %",
       "jawaband" : "10 %",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "20 %"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" : "Rp200.000.000,-",
       "jawabanc" : "Rp500.000.000,-",
       "jawaband" : "Rp250.000.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp150.000.000,-"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" : "5%",
       "jawabanc" : "15%",
       "jawaband" : "20%",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "5%"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" : "Rp2.100.000,-",
       "jawabanc" : "Rp1.200.000,-",
       "jawaband" : "Rp1.300.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp1.200.000,-"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" : "3%",
       "jawabanc" : "2%",
       "jawaband" : "4%",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "4%"
     }
   ]
 }
